@@ -48,7 +48,7 @@ nav {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background: linear-gradient(to right, #1e3c72, #5d759e);
+      background: linear-gradient(135deg, var(--primary) 40%, var(--secondary) 60%);
       padding: 1rem 2rem;
       color: white;
     }
